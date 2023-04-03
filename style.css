@@ -1,0 +1,165 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #faf9f9;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  justify-content: center;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background: #36537f;
+}
+
+.cv-photo {
+  margin: 25px 0 0 0;
+}
+
+.header-secondary {
+  color: #fcfbfb;
+}
+.contact-links {
+  color: #fcfbfb;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: #fb6d3a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-secondary-item {
+  color: #fcfbfb;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main.description {
+  width: 400px;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+
+projects {
+  width: 48px;
+  margin-bottom: 51px;
+}
+
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+.job-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.job-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.job-list {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+/* 
+.main-description {
+  background: #ed92ce;
+  margin: 20px 40px 20px 40px;
+  pudding: 40px 10 px 5px 3px;
+}
+.block-2{
+background: #dced92;
+margin: 10px 40px 20px 40px;
+pudding: 50px 10 px 5px 3px;
+}
+
+
+li {
+  color: rgb(8, 41, 8);
+}
+
+h2 {
+  color: rgb(144, 6, 6);
+}
+
+.description {
+  color: rgb(48, 48, 236);
+} */
